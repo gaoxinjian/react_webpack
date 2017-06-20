@@ -19,7 +19,7 @@
 		----/webpack.config.js
 
 2.初始化
-	npm init
+	npm init 
 	npm install webpack webpack-dev-server --save-dev
 	npm install react react-dom react-router redux react-redux --save-dev
 	npm install style-loader url-loader css-loader --save-dev
